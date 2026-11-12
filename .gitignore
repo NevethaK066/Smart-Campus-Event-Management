@@ -1,0 +1,19 @@
+# Compiled Java files (created by javac, do not upload)
+out/
+*.class
+
+# JDBC driver jar (download it from the MySQL website, see README)
+lib/*.jar
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
